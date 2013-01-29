@@ -1,4 +1,0 @@
-wp-project
-==========
-
-My repository
